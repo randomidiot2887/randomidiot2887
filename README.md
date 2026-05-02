@@ -6,7 +6,8 @@
 - I live in M_______/F_________
 - I study Alevels at G_.A____ _________ ______
 - I am a ___
-
+- Code club prezident at my school for the year 2026
+  
 ### Languages
 #### Programing
 - Python
