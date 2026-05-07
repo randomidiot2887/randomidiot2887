@@ -29,6 +29,9 @@
 - Apple iPhone 11 Pro (2019) with iOS 26
 - Dell Optiplex 380 with [Linux Mint Debian Edition (LMDE)](https://linuxmint.com/download_lmde.php)
 - Huawei Mediapad T3 10 with Android 7.0
+
+### Currently working on
+- [A program for my schools Maths Quiz](https://github.com/randomidiot2887/quiz-buzzur-round-program-arduino)
 <!--
 **randomidiot2887/randomidiot2887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
